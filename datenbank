@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "Todo": 51
+  },
+  "models": {
+    "Todo": {
+      "23": "{\"title\":\"jannes verhauen\",\"desc\":\"hol den knüppel raus\\n\",\"isComplete\":true,\"id\":23}",
+      "24": "{\"title\":\"die todo-list verschönern\",\"desc\":\"da muss die textlist-komponente eingebaut werden\",\"isComplete\":true,\"id\":24}",
+      "25": "{\"title\":\"checkbox richtig einbauen\",\"desc\":\"ohne dass immer die ersten todos ausgewählt werden\",\"isComplete\":true,\"id\":25}",
+      "28": "{\"title\":\"ffiwwge\",\"desc\":\"sfdhlwfihl\",\"isComplete\":true,\"id\":28}",
+      "30": "{\"title\":\"ein test todo\",\"desc\":\"test desc\",\"isComplete\":true,\"id\":30}",
+      "31": "{\"title\":\"noch ein test todo\",\"desc\":\"mit noch einem test desc\",\"isComplete\":true,\"id\":31}",
+      "47": "{\"title\":\"afg ag dfgag\",\"desc\":\"asd agd ag sgd\",\"isComplete\":false,\"important\":false,\"date\":\"2023-08-17\",\"menu\":false,\"id\":47}",
+      "48": "{\"title\":\"asfdgaggg ga g\",\"desc\":\"dafasd sa\",\"isComplete\":false,\"important\":false,\"date\":\"2020-10-07\",\"menu\":false,\"id\":48}",
+      "49": "{\"title\":\"w weer  er \",\"desc\":\"egteg ewrgt \",\"isComplete\":false,\"important\":true,\"date\":\"2020-11-12\",\"due\":null,\"menu\":false,\"id\":49}",
+      "50": "{\"title\":\"agwgwgfwge\",\"desc\":\"wergwgwgwe\",\"isComplete\":false,\"important\":false,\"date\":\"2020-11-19\",\"due\":null,\"menu\":false,\"id\":50}"
+    }
+  }
+}
